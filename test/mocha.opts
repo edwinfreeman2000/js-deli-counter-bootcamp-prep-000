@@ -1,1 +1,7 @@
---timeout 10000
+//" The line is currently: 1. ada, 2 grace 3 kent" 
+// " currently serving ada"
+// " The line is currently: 1. grace, 2. Kent"
+" welcome, matz. you are number 1 in line"
+// " currently serving grace"
+// " The line is currently: 1. kent, 2 matz
+
